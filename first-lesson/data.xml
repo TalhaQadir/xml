@@ -1,0 +1,189 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<products>
+<categories>
+<electronics>
+
+<mobile>
+<apple>
+<model>iphone 12 </model>
+<color>Gold</color>
+<os>Ios</os>
+<version>Ios 15.6</version>
+<memory> 256 &amp;512 Giga Bytes </memory>
+<screensize>6.68 inches</screensize>
+<rating>8.5/10</rating>
+<frontcamera>12 mega pixel</frontcamera>
+<rearcamera>Over all three cameras 12mp each</rearcamera>
+<price>1199$</price>
+<description>A one of its kind iosphone of a no one and only ios brand brand</description>
+</apple>
+
+<samsung>
+<model>Galaxy Z Fold 4 </model>
+<color>Black</color>
+<os>Android</os>
+<version>Android 15.6</version>
+<memory>256 &amp;512 Giga Bytes </memory>
+<screensize>6.68 inches</screensize>
+<rating>9.5/10</rating>
+<frontcamera>12 mega pixel</frontcamera>
+<rearcamera>50 mega pixel</rearcamera>
+<price>1799$</price>
+<description>A next gen phone of a top android brand  with great specs</description>
+</samsung>
+
+<vivo>
+<model>Vivo V80 </model>
+<color>Cosmic Black &amp; Urban Blue</color>
+<os>Android</os>
+<version>Android 12</version>
+<memory>256 Giga Bytes </memory>
+<screensize>6.78 inches</screensize>
+<rating>7.5/10</rating>
+<frontcamera>32 mega pixel</frontcamera>
+<rearcamera>50+12+12 mega pixel</rearcamera>
+<price>899$</price>
+<description>A next gen phone of a top android brand  with great specs</description>
+</vivo>
+
+
+
+<infinix>
+<model>Note 12 Vip </model>
+<color>Force Black &amp; Grey</color>
+<os>Android</os>
+<version>Android 11</version>
+<memory>512 &amp;256 Giga Bytes </memory>
+<screensize>6.7 inches</screensize>
+<rating>5.5/10</rating>
+<frontcamera>32 mega pixel</frontcamera>
+<rearcamera>50+12+12 mega pixel</rearcamera>
+<price>305$</price>
+<description>A next gen phone of a top android brand  with great specs</description>
+</infinix>
+
+
+
+
+<realme>
+<model>realme 9 </model>
+<color>Meteor Black &amp; Sunburst Gold &amp;Star Gaze White</color>
+<os>Android</os>
+<version>Android 12</version>
+<memory>128 Giga Bytes </memory>
+<screensize>6.4 inches</screensize>
+<rating>8.5/10</rating>
+<frontcamera>16 mega pixel</frontcamera>
+<rearcamera>108 mega pixel</rearcamera>
+<price>299$</price>
+<description>A next gen phone of a top android brand  with great specs</description>
+</realme>
+
+
+
+
+
+
+
+
+</mobile>
+<computer>
+
+
+
+<laptop>
+
+<hp>
+<series>Elite Book</series>
+<model>Elite Book Folio 9480 </model>
+<color>Meteor Black &amp; Sunburst Gold &amp;Star Gaze White</color>
+<os>Windows</os>
+<version>Windows 10</version>
+<processor>Core I5 5th Generation</processor>
+<ram>8 Giga Bytes </ram>
+<screensize>14 inches</screensize>
+<rating>8.5/10</rating>
+<webcam>yes</webcam>
+<graphiccard>Intel Integrated Graphics</graphiccard>
+<price>499$</price>
+<description>A next gen laptop of a top android brand  with great specs</description>
+</hp>
+
+<lenovo>
+<series>Lenovo Think Pad</series>
+<model>Think Pad T430 </model>
+<color> Black </color>
+<os>Windows</os>
+<version>Windows 10</version>
+<processor>Core I5 3rd Generation</processor>
+<ram>8 Giga Bytes </ram>
+<screensize>14 inches</screensize>
+<rating>8.5/10</rating>
+<webcam>yes</webcam>
+<graphiccard>Intel Integrated Graphics</graphiccard>
+<price>499$</price>
+<description>A next gen laptop of a top android brand  with great specs</description>
+</lenovo>
+
+<apple>
+<series>Macbook</series>
+<model>Macbook Pro </model>
+<color>Black</color>
+<os>ios</os>
+<version>ios 10</version>
+<processor>Core I5 3rd Generation</processor>
+<ram>256 Giga Bytes </ram>
+<screensize>14 inches</screensize>
+<rating>8.5/10</rating>
+<webcam>yes</webcam>
+<graphiccard>Intel Iris Graphics</graphiccard>
+<price>1699$</price>
+<description>A next gen laptop of a top laptop brand  with great specs</description>
+</apple>
+
+<dell>
+<series>Dell Latitude</series>
+<model>Latitude E7280 </model>
+<color>Black</color>
+<os>Windows</os>
+<version>Windows 10</version>
+<processor>Intel I7 6th Generation 2.80 Ghz</processor>
+<ram>8 Giga Bytes </ram>
+<screensize>14 inches</screensize>
+<rating>8.5/10</rating>
+<webcam>yes</webcam>
+<graphiccard>Nill</graphiccard>
+<price>399$</price>
+<description>A next gen laptop of a top laptop brand  with great specs</description>
+</dell>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</laptop>
+
+
+
+
+</computer>
+
+
+
+
+
+</electronics>
+</categories>
+</products>
