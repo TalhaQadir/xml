@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<email>
+<to>webdev@gmail.com</to>
+<cc>webdev2@gmail.com</cc>
+<bc>talhaqadir</bc>
+<subject>It is Important to inform you</subject>
+<content>hello world</content>
+<date>8/17/22</date>
+<time>6:18</time>
+</email>
